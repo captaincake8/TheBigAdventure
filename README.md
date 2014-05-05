@@ -1,4 +1,4 @@
 TheBigAdventure
 ===============
 
-Go to the Starting Page.html
+Go to the StartingPage.html
